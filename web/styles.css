@@ -1,0 +1,33 @@
+/* 
+    Document   : resumecss
+    Created on : Aug 27, 2013, 8:51:54 PM
+    Author     : dawn bykowski
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+h1 {
+    font-family: Times;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+}
+
+h4 {
+    font-family: Times;
+    font-weight: bold;
+    text-align: center;
+    border-top: black;
+    padding: 0;
+}
+
+p
+{   
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
